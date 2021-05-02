@@ -1,14 +1,14 @@
-# Aeon Cryptosystems (Aeon Cryptosystems Co.)
+# Aeos Cryptosystems (Aeos Cryptosystems Co.)
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
 
-This is Aeon Crytosystems application for manufacturing its first hotspot model. This hotspot will be heavy, but light and anchor hotspots are also in development. 
-Aeon also aims to distribute these hotspots directly along with highly optimized antenna installations for maximum coverage for the network
+This is Aeos Crytosystems application for manufacturing its first hotspot model. This hotspot will be heavy, but light and anchor hotspots are also in development. 
+Aeos also aims to distribute these hotspots directly along with highly optimized antenna installations for maximum coverage for the network
 
 ## Company Information
 
-Aeon Crytosystems is a new Helium focused startup which aims to develop the helium ecosystem by improving antenna installations, developing sensors for the agricultural industry, 
+Aeos Crytosystems is a new Helium focused startup which aims to develop the helium ecosystem by improving antenna installations, developing sensors for the agricultural industry, 
 and distributing hotspots.
 
 Aeom aims to help pioneer the democratization of cryptocurrency production, internet
@@ -16,8 +16,8 @@ technology, and all other technology that can bring power, independence, securit
 
 ## Product Information
 
-Our first product we are seeking approval for in this document is the Aeon Heavy
-Aeon Heavy features:
+Our first product we are seeking approval for in this document is the Aeos Heavy
+Aeos Heavy features:
  * Semtech SX1302 based
  * 27 dBm output power
  * powerful Raspberry Pi 4 
@@ -38,8 +38,8 @@ Customer support will be handled with a dedicated technician call center trained
 
 ## Hardware Security
 
-for the Aeon Heavy, the swarm_key is generated and stored on the ECC608. The ECC608 is covered in an encapsulation resin to prevent tampering. 
-The ECC608 will be located on the mainboard, not the RF board for the Aeon Heavy. 
+for the Aeos Heavy, the swarm_key is generated and stored on the ECC608. The ECC608 is covered in an encapsulation resin to prevent tampering. 
+The ECC608 will be located on the mainboard, not the RF board for the Aeos Heavy. 
 
 ## Manufacturing Information
 
